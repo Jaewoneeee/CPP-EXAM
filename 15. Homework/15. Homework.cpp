@@ -3,14 +3,11 @@
 
 using namespace std;
 
-void gugu(int a, int b)
-{
 
-}
 
 int main()
 {
-    cout << << endl;
+    cout << "git test" << endl;
 
     return 0;
 }
