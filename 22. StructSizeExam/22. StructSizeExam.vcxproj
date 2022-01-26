@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{59f89af1-377d-48d4-8733-244502e2bffe}</ProjectGuid>
-    <RootNamespace>My21StructExam</RootNamespace>
+    <ProjectGuid>{c1e022f8-aed3-4dc0-89dd-2356d72fc9b8}</ProjectGuid>
+    <RootNamespace>My22StructSizeExam</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,10 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="21. StructExam.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="StructExam.h" />
+    <ClCompile Include="22. StructSizeExam.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,12 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="21. StructExam.cpp">
+    <ClCompile Include="23. BasicClassExam.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="StructExam.h">
+    <ClInclude Include="Books.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CCar.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
